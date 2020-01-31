@@ -7,7 +7,4 @@ class Shoe
     @brand = brand
     BRANDS << brand
   end
-
-
-
 end
