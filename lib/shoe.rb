@@ -1,2 +1,2 @@
-def Shoe
+class Shoe
 end
